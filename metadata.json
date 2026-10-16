@@ -1,0 +1,6 @@
+{
+  "name": "ShopEasy - Online Shopping Website",
+  "description": "Modern, responsive e-commerce web application featuring home, product catalog, detailed product view, and shopping cart with persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
